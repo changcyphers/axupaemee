@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohchaevooh.iamstef.net/sitemap.xml
